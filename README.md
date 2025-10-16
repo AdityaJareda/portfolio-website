@@ -29,7 +29,6 @@ This project is a simple example of hosting a website using containerization wit
 │   └── nginx.key    # SSL private key (self-signed - DEVELOPMENT ONLY)
 ├── Dockerfile    # Dockerfile for building the container image
 ├── html    # HTML file and backup file 
-│   ├── assets
 │   ├── backup    # Backup files
 │   │   └── portfolio.bak    # HTML file backup
 │   └── portfolio.html    # Main HTML file
